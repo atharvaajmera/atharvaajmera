@@ -3,22 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=1500&color=7F5AF0&center=true&vCenter=true&width=700&height=80&lines=Atharva+Ajmera;Systems+Engineer;Rust+%7C+C%2B%2B+%7C+TypeScript;Distributed+Systems+%26+RAG;Open+Source+%40+Zed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=750&color=7F5AF0&center=true&vCenter=true&width=700&height=80&lines=Atharva+Ajmera;Software+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:b24ee1009@iitj.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/atharvaajmera"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Fill your profile URLs below -->
-  <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/#"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.linkedin.com/in/atharva-ajmera-790b10327/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=700&color=F72585&center=true&vCenter=true&multiline=true&width=780&height=60&lines=%22Debugging%3A+being+the+detective+in+a+crime+movie%2C%22;%22where+you+are+also+the+murderer.%22" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&typeSpeed=30&color=F72585&center=true&vCenter=true&width=780&height=40&lines=%22It%27s+not+a+bug%2C+it%27s+an+undocumented+feature.%22" alt="Quote" />
 </p>
 
 <br/>
@@ -55,11 +52,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=FFFFFF&center=true&vCenter=true&width=780&height=90&lines=%F0%9F%93%AC+TeamBrain+%E2%80%94+Slack+RAG+copilot%2C+%3C2.5s+latency;%F0%9F%93%A1+Plenum+%E2%80%94+P2P+file+sync%2C+110%2B+MB%2Fs+%C2%B7+100GB%2B;%F0%9F%93%9D+TestiFy+%E2%80%94+AI+exam+generation%2C+LaTeX+to+PDF+in+1.5s" alt="Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=FFFFFF&center=true&vCenter=true&width=780&height=60&lines=Plenum+%E2%80%94+P2P+file+sharing" alt="Projects" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Zed%20Contributor-%E2%9C%94%20PR%2361260%20merged-4D8BFF?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed Contributor" />
+  <a href="https://github.com/atharvaajmera/Plenum"><img src="https://img.shields.io/badge/-Plenum-000000?style=for-the-badge&logo=github&logoColor=white" alt="Plenum" /></a>
 </p>
 
 <br/>
@@ -71,15 +68,9 @@
 <p align="center">
   <a href="mailto:b24ee1009@iitj.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/atharvaajmera"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/#"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.linkedin.com/in/atharva-ajmera-790b10327/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/atharvaajmera"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/maxiums_avi"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
 
 <br/>
-
-<p align="center">
-  <sub><b>⚡ 1864 peak LeetCode rating · 400+ problems solved</b></sub>
-  <br/>
-  <sub><i>Crafted with Rust, React & a lot of caffeine</i></sub>
-</p>
