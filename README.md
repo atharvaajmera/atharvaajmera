@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:b24ee1009@iitj.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/atharva-ajmera-790b10327/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://atharva-portfolio-liart.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <br/>
